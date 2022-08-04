@@ -2,6 +2,7 @@
 
 
 
-#themecolors .selector{
+#themecolors .selector,
+.cursor {
     cursor: pointer;
 }
